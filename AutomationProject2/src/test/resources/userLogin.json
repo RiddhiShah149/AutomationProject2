@@ -1,0 +1,18 @@
+{
+  "email" : "automationexercise@gmail.com",
+  "password" : "automationexercise",
+  "name" : "Automation Exercise",
+  "firstName": "Selenium",
+  "lastName": "Testing",
+  "company": "Automation Testing",
+  "address": "h.no.606",
+  "address2":"same As above",
+  "day": "30",
+  "month" : "March",
+  "year" : "1994",
+  "city": "Mumbai",
+  "state": "Maharashtra State",
+  "zipcode": "401101",
+  "mobileNumber": "9090909090",
+  "country" : "India"
+}
